@@ -1,3 +1,7 @@
+---
+author: Ronald Rink
+---
+
 # This is my first post
 
 [Lorem ipsum](https://www.lipsum.com/feed/html) dolor sit amet, consectetur adipiscing elit. Donec ultrices ex leo, ut cursus magna tempus a. Fusce rhoncus viverra quam, at elementum ipsum scelerisque ac. Nulla facilisi. Etiam iaculis semper ante non condimentum. Nulla facilisi. Aenean sagittis viverra mollis. Integer efficitur augue id ex dignissim, ac scelerisque ante hendrerit. Mauris sit amet erat volutpat, aliquet arcu nec, eleifend felis. Etiam dignissim, orci ac tempor porttitor, felis nibh posuere justo, vel pharetra mi justo vitae leo. Duis vitae porta quam.
