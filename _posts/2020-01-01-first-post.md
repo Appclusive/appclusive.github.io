@@ -3,7 +3,7 @@ layout: post
 title: "audio and video and everything else"
 date: 2020-01-01 12:00:00 +0100
 author: Ronald Rink
-categories: [ Audio, Video ]
+categories: [jekyll]
 ---
 
 # This is my first post
