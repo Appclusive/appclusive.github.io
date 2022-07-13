@@ -2,6 +2,7 @@ layout: post
 title: "audio and video and everything else"
 date: 2020-01-01 12:00:00 -0000
 categories: audio video
+author: Ronald Rink
 
 Beginning with the COVID-19 pandemic, at my daytime job I suddenly had to switch from face-to-face meetings to *virtual events*. Therefore I reactivated my analogue radio station knowledge from the nineties and invested in some audio and video gear. As it became apparent very quickly, technology had advanced in these 25+ years with things being possible I would not have imagined.
 
