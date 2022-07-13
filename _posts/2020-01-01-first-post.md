@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "audio and video and everything else"
+categories: audio video
 author: Ronald Rink
 ---
 
