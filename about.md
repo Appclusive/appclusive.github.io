@@ -1,5 +1,5 @@
 ---
-layout: default_container_title
+layout: page
 title: About
 permalink: /about/
 description: About this blog.
