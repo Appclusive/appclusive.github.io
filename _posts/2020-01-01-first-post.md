@@ -3,9 +3,9 @@ layout: post
 title: "audio and video and everything else"
 date: 2020-01-01 12:00:00 +0100
 author: Ronald Rink
-tags: 
-- Audio
-- Video
+categories:
+- Category1
+- Category2
 ---
 
 # This is my first post
