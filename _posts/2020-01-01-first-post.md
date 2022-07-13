@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "audio and video and everything else"
-categories: audio video
+date: 2020-01-01 12:00:00 -0000
 author: Ronald Rink
 ---
 
